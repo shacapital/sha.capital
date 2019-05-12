@@ -24,10 +24,12 @@ const Wrapper = styled.div`
 const IndexPage = () => (
   <Layout>
     <Wrapper>
-      <Logo style={{fontSize: '2rem'}} />
+      <Logo style={{ fontSize: '2rem' }} />
 
       <p>
-        sha.capital is an actively managed hedge fund trading in digital and non-digital assets and currencies.
+        sha.capital, L.P. is a research and investment firm with a quantitative
+        and systematic long volatility focus, seeking to transform market
+        turbulence into opportunity.
       </p>
 
       <p>
